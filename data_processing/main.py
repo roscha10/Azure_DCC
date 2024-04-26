@@ -1,5 +1,5 @@
-from data_acquisition import obtener_empresas_nasdaq100, obtener_capitalizacion_mercado, obtener_datos_financieros
-from azure_storage import subir_archivo_a_blob, descargar_archivo_de_blob
+from data_processing.data_acquisition import obtener_empresas_nasdaq100, obtener_capitalizacion_mercado, obtener_datos_financieros
+from data_processing.azure_storage import subir_archivo_a_blob, descargar_archivo_de_blob
 
 def main():
     # Obtener los tickers de todas las empresas del NASDAQ-100
