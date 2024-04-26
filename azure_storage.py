@@ -3,7 +3,7 @@ from azure.storage.blob import BlobServiceClient, BlobClient, ContainerClient
 import pandas as pd
 
 # Suponemos que el nombre del contenedor está configurado como una variable de entorno o está definido en otro lugar
-CONTAINER_NAME = 'market-data'
+CONTAINER_NAME = 'marketdata'
 
 def subir_archivo_a_blob(dataframe, directorio, nombre_archivo):
     # Asumimos que la conexión se establece en el entorno
@@ -11,7 +11,7 @@ def subir_archivo_a_blob(dataframe, directorio, nombre_archivo):
     blob_service_client = BlobServiceClient.from_connection_string(connection_string)
     container_client = blob_service_client.get_container_client(CONTAINER_NAME)
     
-    csv_data = dataframe.to_csv(index=False)
+    csv_data = dataframe.to_csv(index=False, encoding='utf-8')
     blob_name = f'{directorio}/{nombre_archivo}.csv'
     blob_client = container_client.get_blob_client(blob_name)
     blob_client.upload_blob(csv_data, blob_type="BlockBlob", overwrite=True)

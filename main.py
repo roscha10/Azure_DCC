@@ -12,10 +12,10 @@ def main():
     df_datos_financieros_nasdaq100 = obtener_datos_financieros(tickers_nasdaq100)
 
     # Subir los datos financieros de todas las empresas al Blob Storage
-    subir_archivo_a_blob(df_datos_financieros_nasdaq100, "datos-financieros", "datos_financieros_nasdaq100")
+    subir_archivo_a_blob(df_datos_financieros_nasdaq100, "datosinprocesar", "datos_financieros_nasdaq100")
 
     # Opcional: descargar el archivo subido para verificación o uso local
-    descargar_archivo_de_blob("datos-financieros/datos_financieros_nasdaq100.csv", "datos_financieros_nasdaq100_descargado.csv")
+    # descargar_archivo_de_blob("datos-financieros/datos_financieros_nasdaq100.csv", "datos_financieros_nasdaq100_descargado.csv")
 
 if __name__ == "__main__":
     main()
