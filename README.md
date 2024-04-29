@@ -86,9 +86,9 @@ Este proyecto mejorará las habilidades técnicas de los participantes en el uso
 	
 2.	En la barra de búsqueda, busca "Cuenta de almacenamiento" y selecciona la opción correspondiente.
 3.	En la configuración básica, asigna el nombre.
-4.	Asegúrate de que el grupo de recursos seleccionado sea le grupo de recursos creado, en este caso DataFactoryResources.
-5.	Configura los detalles específicos como el rendimiento (estándar/premium), el tipo de cuenta y la replicación según las necesidades del proyecto.
-6.	Selecciona la misma región o la más cercana a la de tu grupo de recursos para optimizar la latencia.
+4.	Asegúrate de que el grupo de recursos seleccionado sea le grupo de recursos creado, en este caso DataFactoryResources.  
+5.	Configura los detalles específicos como el rendimiento (estándar/premium), el tipo de cuenta y la replicación según las necesidades del proyecto.  
+6.	Selecciona la misma región o la más cercana a la de tu grupo de recursos para optimizar la latencia.  
 7.	Haz clic en "Revisar y crear" y, una vez validados los detalles, en "Crear".
 
 
@@ -151,9 +151,9 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 3.	Escribe y selecciona "Azure Functions: Create Function...".
 4.	Sigue los pasos y elige "TimerTrigger" como tipo de disparador.
 <img src="image/azuref2.png" alt="Descripción de la imagen" width="660">
-6.	Proporciona un nombre a la función, como DailyDataUpdater.
-7.	Establece el cronograma con una expresión CRON que represente tu necesidad (por ejemplo, 0 0 0 * * * para ejecutar a medianoche todos los días).
-8.	Selecciona "Create New Blueprint File" cuando se te pregunte dónde colocar la función.
+6.	Proporciona un nombre a la función, como DailyDataUpdater.  
+7.	Establece el cronograma con una expresión CRON que represente tu necesidad (por ejemplo, 0 0 0 * * * para ejecutar a medianoche todos los días).  
+8.	Selecciona "Create New Blueprint File" cuando se te pregunte dónde colocar la función.  
 
 
 <img src="image/azuretrigger.jpg" alt="Descripción de la imagen" width="660">
