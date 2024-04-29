@@ -150,7 +150,7 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 2.	Abre la paleta de comandos con Ctrl+Shift+P.
 3.	Escribe y selecciona "Azure Functions: Create Function...".
 4.	Sigue los pasos y elige "TimerTrigger" como tipo de disparador.
-<img src="image/azuref2.png" alt="Descripción de la imagen" width="600">
+<img src="image/azuref2.png" alt="Descripción de la imagen" width="660">
 6.	Proporciona un nombre a la función, como DailyDataUpdater.
 7.	Establece el cronograma con una expresión CRON que represente tu necesidad (por ejemplo, 0 0 0 * * * para ejecutar a medianoche todos los días).
 8.	Selecciona "Create New Blueprint File" cuando se te pregunte dónde colocar la función.
