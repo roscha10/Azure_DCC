@@ -2,6 +2,7 @@
 ![WhatsApp Image 2024-04-29 at 11 02 07 AM](https://github.com/roscha10/Azure_DCC/assets/130667173/d624ba20-ac2a-49ec-be9d-6fd5e4457470)
 </p>
 
+<p align="center">
 ![WhatsApp Image 2024-04-29 at 11 02 07 AM](https://github.com/roscha10/Azure_DCC/assets/130667173/d624ba20-ac2a-49ec-be9d-6fd5e4457470)
 
 # Servicios de Azure para análisis de datos, enfocado en las empresas de NASDAQ-100 y un estudio detallado sobre sus 10 principales empresas por capitalización de mercado
