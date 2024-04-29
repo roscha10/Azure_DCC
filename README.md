@@ -3,9 +3,9 @@
 
 # Servicios de Azure para análisis de datos, enfocado en las empresas de NASDAQ-100 y un estudio detallado sobre sus 10 principales empresas por capitalización de mercado
 
-<p align="center">
-  <img src="image/MicrosoftAzure.png" alt="" width="100" height="100">
-</p>
+
+  <img src="image/MicrosoftAzure.png" alt="">
+
 
 
 
