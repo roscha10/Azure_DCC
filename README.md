@@ -37,23 +37,30 @@ Este proyecto mejorará las habilidades técnicas de los participantes en el uso
 
 ## 1. Acceso a Azure y Utilización del Crédito Inicial:
 
-Desbloqueo de Azure con el Crédito Inicial de $200:
-•	Dirígete a la página oficial de Microsoft Azure Azure Free Account. Aquí encontrarás información sobre la cuenta gratuita que incluye $200 de crédito para usar durante los primeros 30 días.
+**Desbloqueo de Azure con el Crédito Inicial de $200:**
 
-•	Crear una cuenta de Microsoft: Si aún no tienes una, deberás crear una cuenta de Microsoft. Puedes hacerlo desde el mismo portal de Azure.
+•	Dirígete a la página oficial de Microsoft Azure ([Azure Free Account](https://azure.microsoft.com/en-us/free/)). Aquí encontrarás información sobre la cuenta gratuita que incluye $200 de crédito para usar durante los primeros 30 días.
 
-
-•	Iniciar el proceso de registro para Azure: Haz clic en "Start free", y serás guiado a través del proceso de registro.
-
-•	Proporcionar detalles personales: Durante el proceso de registro, se te pedirá que ingreses información personal básica.
+•	**Crear una cuenta de Microsoft:** Si aún no tienes una, deberás crear una cuenta de Microsoft. Puedes hacerlo desde el mismo portal de Azure.
 
 
-•	Verificación de teléfono: Azure requiere una verificación de teléfono para ayudar a proteger tu identidad. Deberás ingresar tu número de teléfono para recibir un código de verificación.
+•	**Iniciar el proceso de registro para Azure**: Haz clic en "Start free", y serás guiado a través del proceso de registro.
 
-•	Información de la tarjeta de crédito: Aunque no se te cobrará durante el periodo de prueba gratuito, Azure requiere una tarjeta de crédito para configurar la cuenta. Esto es para asegurarse de que puedas continuar usando los servicios sin interrupción después de que el crédito inicial o el periodo gratuito termine, Es importante saber que Azure no realizará cargos en tu tarjeta de crédito durante el período de prueba, ni después de este, a menos que decidas cambiar de plan y autorices explícitamente esos cargos. Esto te da control completo sobre tu plan de gastos y asegura que no habrá costos inesperados.
+•	**Proporcionar detalles personales:** Durante el proceso de registro, se te pedirá que ingreses información personal básica.
 
 
-•	Confirmación de la cuenta: Una vez que ingreses todos los detalles necesarios y completes la verificación, tu cuenta será activada.
+•	**Verificación de teléfono:** Azure requiere una verificación de teléfono para ayudar a proteger tu identidad. Deberás ingresar tu número de teléfono para recibir un código de verificación.
 
-•	Recepción del crédito de $200: El crédito de $200 estará automáticamente disponible en tu cuenta una vez que la activación sea exitosa.
+•	**Información de la tarjeta de crédito:** Aunque no se te cobrará durante el periodo de prueba gratuito, Azure requiere una tarjeta de crédito para configurar la cuenta. Esto es para asegurarse de que puedas continuar usando los servicios sin interrupción después de que el crédito inicial o el periodo gratuito termine, Es importante saber que Azure no realizará cargos en tu tarjeta de crédito durante el período de prueba, ni después de este, a menos que decidas cambiar de plan y autorices explícitamente esos cargos. Esto te da control completo sobre tu plan de gastos y asegura que no habrá costos inesperados.
+
+
+•	**Confirmación de la cuenta:** Una vez que ingreses todos los detalles necesarios y completes la verificación, tu cuenta será activada.
+
+•	**Recepción del crédito de $200:** El crédito de $200 estará automáticamente disponible en tu cuenta una vez que la activación sea exitosa.
+
+<p align="center">
+  <img src="image/azure00.jpeg" alt="">
+</p>
+
+•	**Iniciar sesión en Azure Portal:**  Con tus credenciales de Microsoft, inicia sesión en Azure Portal.
 
