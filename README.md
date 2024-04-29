@@ -35,7 +35,7 @@ Este proyecto mejorará las habilidades técnicas de los participantes en el uso
 
 # Sugerencia  para desarrollar este proyecto:
 
-# 1. Acceso a Azure y Utilización del Crédito Inicial:
+## 1. Acceso a Azure y Utilización del Crédito Inicial:
 
 Desbloqueo de Azure con el Crédito Inicial de $200:
 •	Dirígete a la página oficial de Microsoft Azure Azure Free Account. Aquí encontrarás información sobre la cuenta gratuita que incluye $200 de crédito para usar durante los primeros 30 días.
