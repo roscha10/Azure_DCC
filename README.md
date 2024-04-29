@@ -140,23 +140,23 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 	•	Instala la extensión de Azure Functions en VS Code si aún no lo has hecho. Esto se puede hacer desde la barra lateral de extensiones buscando "Azure Functions" y haciendo clic en instalar.
 	•	Desde la paleta de comandos, Escribe y selecciona "Azure Functions: Create New Project...".
 
-![image](https://github.com/roscha10/Azure_DCC/assets/130667173/941fb81e-d3d0-450e-837e-0003118b0315)
-<img src="https://https://github.com/roscha10/Azure_DCC/assets/130667173/941fb81e-d3d0-450e-837e-0003118b0315" alt="Descripción de la imagen" width="660">
+<img src="image/azuref1.png" alt="Descripción de la imagen" width="660">
 
 •	Asegúrate de que la carpeta del proyecto esté seleccionada, es recomendable crear una carpeta exclusiva para Azure Function.
 •	Elige "Python" como lenguaje de programación para tu proyecto de Azure Functions.
 •	Selecciona el entorno de Python que quieras usar (deberías tener Python ya instalado).
-•	Pasos para crear el "TimerTrigger" como tipo de disparador para ejecutar cada tiempo determinado, "Create New Blueprint File" (Recomendado)
+•	Pasos para crear el "TimerTrigger" como tipo de disparador para ejecutar cada tiempo determinado.
 1.	En VS Code, asegúrate de tener instalada la extensión de Azure Functions.
 2.	Abre la paleta de comandos con Ctrl+Shift+P.
 3.	Escribe y selecciona "Azure Functions: Create Function...".
 4.	Sigue los pasos y elige "TimerTrigger" como tipo de disparador.
-5.	Proporciona un nombre a la función, como DailyDataUpdater.
-6.	Establece el cronograma con una expresión CRON que represente tu necesidad (por ejemplo, 0 0 0 * * * para ejecutar a medianoche todos los días).
-7.	Selecciona "Create New Blueprint File" cuando se te pregunte dónde colocar la función.
+<img src="image/azuref2.png" alt="Descripción de la imagen" width="600">
+6.	Proporciona un nombre a la función, como DailyDataUpdater.
+7.	Establece el cronograma con una expresión CRON que represente tu necesidad (por ejemplo, 0 0 0 * * * para ejecutar a medianoche todos los días).
+8.	Selecciona "Create New Blueprint File" cuando se te pregunte dónde colocar la función.
 
-<img src="https://github.com/roscha10/Azure_DCC/raw/main/assets/130667173/0f29b32b-553a-4155-8d73-3c6c013212d0" alt="Descripción de la imagen" width="660">
 
+<img src="image/azuretrigger.jpg" alt="Descripción de la imagen" width="660">
 
 ## 6. Sube tu Script a Azure:
 
