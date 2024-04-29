@@ -113,11 +113,11 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 1.	**Accede al Portal de Azure:**
 	•	Ingresa a ([Azure Portal](https://portal.azure.com)) usando tus credenciales.    
 2.	**Navega a Aplicaciones de Funciones:**  
-	•	Puedes encontrarlo buscando "Aplicaciones de funciones" en la barra de búsqueda del portal o dentro del menú de servicios.  
-3.	**Crear una Nueva Aplicación de Funciones:**
-	•	Haz clic en "Agregar" o "Crear" para iniciar la configuración de una nueva Aplicación de Funciones.  
-	•	Se te presentará un formulario para configurar la nueva aplicación.  
-4.	**Configura los Detalles de la Aplicación:**  
+	•	Puedes encontrarlo buscando "Aplicaciones de funciones" en la barra de búsqueda del portal o dentro del menú de servicios.    
+3.	**Crear una Nueva Aplicación de Funciones:**  
+	•	Haz clic en "Agregar" o "Crear" para iniciar la configuración de una nueva Aplicación de Funciones.      
+	•	Se te presentará un formulario para configurar la nueva aplicación.    
+4.	**Configura los Detalles de la Aplicación:**    
 	•	Suscripción: Selecciona la suscripción de Azure que usarás.  
 	•	Grupo de recursos: Elige el grupo de recursos que ya creaste.  
 	•	Nombre de la aplicación de funciones: Asigna un nombre único.  
@@ -132,14 +132,14 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 <img src="image/azurefunction.jpg" alt="" width="600">
 
 ### Paso 2: Desarrollar y Desplegar el Script de Python
-1.	**Desarrolla tu Script Localmente:**
-	•	Asegúrate de que tu script de Python realiza las tareas deseadas (ej., acceder a datos, procesarlos, y prepararlos para la carga).
-	•	Incluye las bibliotecas necesarias para interactuar con Azure Blob Storage, como azure-storage-blob.
-2.	**Prueba tu Script Localmente:**
-	•	Ejecuta el script en tu entorno local para asegurarte de que funciona correctamente antes de subirlo a Azure.
-3.	**Prepara tu Entorno de Desarrollo:**
-	•	Instala la extensión de Azure Functions en VS Code si aún no lo has hecho. Esto se puede hacer desde la barra lateral de extensiones buscando "Azure Functions" y haciendo clic en instalar.
-	•	Desde la paleta de comandos, Escribe y selecciona "Azure Functions: Create New Project...".
+1.	**Desarrolla tu Script Localmente:**  
+	•	Asegúrate de que tu script de Python realiza las tareas deseadas (ej., acceder a datos, procesarlos, y prepararlos para la carga).    
+	•	Incluye las bibliotecas necesarias para interactuar con Azure Blob Storage, como azure-storage-blob.    
+2.	**Prueba tu Script Localmente:**  
+	•	Ejecuta el script en tu entorno local para asegurarte de que funciona correctamente antes de subirlo a Azure.    
+3.	**Prepara tu Entorno de Desarrollo:**  
+	•	Instala la extensión de Azure Functions en VS Code si aún no lo has hecho. Esto se puede hacer desde la barra lateral de extensiones buscando "Azure Functions" y haciendo clic en instalar.  
+	•	Desde la paleta de comandos, Escribe y selecciona "Azure Functions: Create New Project...".  
 
 <img src="image/azuref1.png" alt="Descripción de la imagen" width="660">
 
