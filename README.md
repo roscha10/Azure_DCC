@@ -109,21 +109,22 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 ## 5. Automatización con Azure Functions: 
 
 ### Paso 1: Crear una Aplicación de Funciones
+
 1.	**Accede al Portal de Azure:**
-	•	Ingresa a ([Azure Portal](https://portal.azure.com)) usando tus credenciales.
-2.	**Navega a Aplicaciones de Funciones:**
-	•	Puedes encontrarlo buscando "Aplicaciones de funciones" en la barra de búsqueda del portal o dentro del menú de servicios.
+	•	Ingresa a ([Azure Portal](https://portal.azure.com)) usando tus credenciales.    
+2.	**Navega a Aplicaciones de Funciones:**  
+	•	Puedes encontrarlo buscando "Aplicaciones de funciones" en la barra de búsqueda del portal o dentro del menú de servicios.  
 3.	**Crear una Nueva Aplicación de Funciones:**
-	•	Haz clic en "Agregar" o "Crear" para iniciar la configuración de una nueva Aplicación de Funciones.
-	•	Se te presentará un formulario para configurar la nueva aplicación.
-4.	**Configura los Detalles de la Aplicación:**
-	•	Suscripción: Selecciona la suscripción de Azure que usarás.
-	•	Grupo de recursos: Elige el grupo de recursos que ya creaste.
-	•	Nombre de la aplicación de funciones: Asigna un nombre único.
-	•	Publicar: Elige "Código" para subir código directamente.
-	•	Pila de ejecución: Selecciona "Python".
-	•	Versión: Elige la versión de Python que tu script necesita.
-	•	Región: Escoge la región más conveniente para minimizar la latencia.
+	•	Haz clic en "Agregar" o "Crear" para iniciar la configuración de una nueva Aplicación de Funciones.  
+	•	Se te presentará un formulario para configurar la nueva aplicación.  
+4.	**Configura los Detalles de la Aplicación:**  
+	•	Suscripción: Selecciona la suscripción de Azure que usarás.  
+	•	Grupo de recursos: Elige el grupo de recursos que ya creaste.  
+	•	Nombre de la aplicación de funciones: Asigna un nombre único.  
+	•	Publicar: Elige "Código" para subir código directamente.  
+	•	Pila de ejecución: Selecciona "Python".  
+	•	Versión: Elige la versión de Python que tu script necesita.  
+	•	Región: Escoge la región más conveniente para minimizar la latencia.  
 5.	**Revisión y Creación:**
 	•	Haz clic en "Revisar y crear" para verificar tu configuración.
 	•	Finaliza haciendo clic en "Crear" para desplegar la Aplicación de Funciones.
