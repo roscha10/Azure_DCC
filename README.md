@@ -160,5 +160,6 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 
 ## 6. Sube tu Script a Azure:
 
-•	Desde Visual Studio Code, puedes desplegar directamente a tu **Function App** creada.
+•	Desde Visual Studio Code, puedes desplegar directamente a tu **Function App** creada.  
+
 •	Asegúrate de configurar el archivo **requirements.txt** con todas las dependencias necesarias, como **azure-storage-blob**.
