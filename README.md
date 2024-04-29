@@ -76,5 +76,21 @@ Este proyecto mejorará las habilidades técnicas de los participantes en el uso
 6.	Haz clic en "Revisar y crear", y luego en "Crear".
 
 ![image](https://github.com/roscha10/Azure_DCC/assets/130667173/226c1220-d708-4fd9-8695-9c1e59334f98)
+
 ![image](https://github.com/roscha10/Azure_DCC/assets/130667173/300bb078-cfd3-42f1-bc3c-39eab21ff418)
+
+## 3. Creación de la Cuenta de Almacenamiento y Contenedor:
+
+1.	Dentro del grupo de recursos DataFactoryResources, haz clic en "Agregar" o "Crear recurso".
+   ![image](https://github.com/roscha10/Azure_DCC/assets/130667173/f1b71e7f-78c5-47a7-b542-16f817e0fe2a)
+	
+2.	En la barra de búsqueda, busca "Cuenta de almacenamiento" y selecciona la opción correspondiente.
+3.	En la configuración básica, asigna el nombre.
+4.	Asegúrate de que el grupo de recursos seleccionado sea le grupo de recursos creado, en este caso DataFactoryResources.
+5.	Configura los detalles específicos como el rendimiento (estándar/premium), el tipo de cuenta y la replicación según las necesidades del proyecto.
+6.	Selecciona la misma región o la más cercana a la de tu grupo de recursos para optimizar la latencia.
+7.	Haz clic en "Revisar y crear" y, una vez validados los detalles, en "Crear".
+
+
+
 
