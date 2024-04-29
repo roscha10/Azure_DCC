@@ -95,3 +95,68 @@ Este proyecto mejorará las habilidades técnicas de los participantes en el uso
 <img src="image/azure8.jpg" alt="" width="600">
 
 <img src="image/azure9.jpg" alt="" width="600">
+
+## 4. Creación de un contenedor, dentro de la cuenta de almacenamiento:
+
+El siguiente paso es crear un contenedor. Dentro de la cuenta ADLS, ubique y seleccione la sección "Contenedores", haga clic en  "+ Contenedor" e ingrese el nombre deseado para el contenedor, por ejemplo, "marketdata", luego haga clic en crear.
+
+<img src="image/azure13.jpg" alt="" width="600">
+
+El siguiente paso es crear dos directorios dentro de este contenedor. Navegue hasta el contenedor específico, haga clic en "Cargar". Ingrese el nombre del directorio como "datos sin procesar" y confirme la creación. Haga clic en "Agregar directorio" nuevamente e ingrese el nombre del directorio como "datos transformados" y confirme la creación. Esta es una forma común de organizar datos.
+
+<img src="image/azure15.jpg" alt="" width="600">
+
+## 5. Automatización con Azure Functions: 
+
+## Paso 1: Crear una Aplicación de Funciones
+1.	**Accede al Portal de Azure:**
+	•	Ingresa a ([Azure Portal](https://portal.azure.com)) usando tus credenciales.
+2.	**Navega a Aplicaciones de Funciones:**
+	•	Puedes encontrarlo buscando "Aplicaciones de funciones" en la barra de búsqueda del portal o dentro del menú de servicios.
+3.	**Crear una Nueva Aplicación de Funciones:**
+	•	Haz clic en "Agregar" o "Crear" para iniciar la configuración de una nueva Aplicación de Funciones.
+	•	Se te presentará un formulario para configurar la nueva aplicación.
+4.	**Configura los Detalles de la Aplicación:**
+	•	Suscripción: Selecciona la suscripción de Azure que usarás.
+	•	Grupo de recursos: Elige el grupo de recursos que ya creaste.
+	•	Nombre de la aplicación de funciones: Asigna un nombre único.
+	•	Publicar: Elige "Código" para subir código directamente.
+	•	Pila de ejecución: Selecciona "Python".
+	•	Versión: Elige la versión de Python que tu script necesita.
+	•	Región: Escoge la región más conveniente para minimizar la latencia.
+5.	**Revisión y Creación:**
+	•	Haz clic en "Revisar y crear" para verificar tu configuración.
+	•	Finaliza haciendo clic en "Crear" para desplegar la Aplicación de Funciones.
+
+<img src="image/azurefunction.jpg" alt="" width="600">
+
+## Paso 2: Desarrollar y Desplegar el Script de Python
+1.	**Desarrolla tu Script Localmente:**
+	•	Asegúrate de que tu script de Python realiza las tareas deseadas (ej., acceder a datos, procesarlos, y prepararlos para la carga).
+	•	Incluye las bibliotecas necesarias para interactuar con Azure Blob Storage, como azure-storage-blob.
+2.	**Prueba tu Script Localmente:**
+	•	Ejecuta el script en tu entorno local para asegurarte de que funciona correctamente antes de subirlo a Azure.
+3.	**Prepara tu Entorno de Desarrollo:**
+	•	Instala la extensión de Azure Functions en VS Code si aún no lo has hecho. Esto se puede hacer desde la barra lateral de extensiones buscando "Azure Functions" y haciendo clic en instalar.
+	•	Desde la paleta de comandos, Escribe y selecciona "Azure Functions: Create New Project...".
+
+![image](https://github.com/roscha10/Azure_DCC/assets/130667173/941fb81e-d3d0-450e-837e-0003118b0315)
+
+•	Asegúrate de que la carpeta del proyecto esté seleccionada, es recomendable crear una carpeta exclusiva para Azure Function.
+•	Elige "Python" como lenguaje de programación para tu proyecto de Azure Functions.
+•	Selecciona el entorno de Python que quieras usar (deberías tener Python ya instalado).
+•	Pasos para crear el "TimerTrigger" como tipo de disparador para ejecutar cada tiempo determinado, "Create New Blueprint File" (Recomendado)
+1.	En VS Code, asegúrate de tener instalada la extensión de Azure Functions.
+2.	Abre la paleta de comandos con Ctrl+Shift+P.
+3.	Escribe y selecciona "Azure Functions: Create Function...".
+4.	Sigue los pasos y elige "TimerTrigger" como tipo de disparador.
+5.	Proporciona un nombre a la función, como DailyDataUpdater.
+6.	Establece el cronograma con una expresión CRON que represente tu necesidad (por ejemplo, 0 0 0 * * * para ejecutar a medianoche todos los días).
+7.	Selecciona "Create New Blueprint File" cuando se te pregunte dónde colocar la función.
+
+![image](https://github.com/roscha10/Azure_DCC/assets/130667173/0f29b32b-553a-4155-8d73-3c6c013212d0)
+
+## 6. Sube tu Script a Azure:
+
+•	Desde Visual Studio Code, puedes desplegar directamente a tu **Function App** creada.
+•	Asegúrate de configurar el archivo **requirements.txt** con todas las dependencias necesarias, como **azure-storage-blob**.
