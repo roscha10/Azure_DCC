@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://github.com/roscha10/Azure_DCC/raw/main/assets/130667173/4dc05c68-0340-4f20-aac8-666c3baaeae8" alt="Descripción de la imagen">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roscha10/Azure_DCC/main/assets/imagen.jpg" alt="Descripción de la imagen">
+</p>
 
 
 ¡Hola a todos, miembro de la comunidad de Data Cloud Club de Henry y entusiastas de Azure! Prepárense para explorar el emocionante mundo del análisis de datos usando Azure, abordando el conjunto completo de empresas listadas en el NASDAQ-100 Con un especial énfasis en las 10 principales compañías por capitalización de mercado.
