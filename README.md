@@ -4,11 +4,9 @@
 # Servicios de Azure para análisis de datos, enfocado en las empresas de NASDAQ-100 y un estudio detallado sobre sus 10 principales empresas por capitalización de mercado
 
 <p align="center">
-  <img src="image/MicrosoftAzure.png" alt="">
+  <img src="image/MicrosoftAzure.png" alt="" width="100" height="100">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roscha10/Azure_DCC/main/assets/imagen.jpg" alt="Descripción de la imagen">
-</p>
+
 
 
 ¡Hola a todos, miembro de la comunidad de Data Cloud Club de Henry y entusiastas de Azure! Prepárense para explorar el emocionante mundo del análisis de datos usando Azure, abordando el conjunto completo de empresas listadas en el NASDAQ-100 Con un especial énfasis en las 10 principales compañías por capitalización de mercado.
