@@ -138,14 +138,14 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 2.	**Prueba tu Script Localmente:**  
 	•	Ejecuta el script en tu entorno local para asegurarte de que funciona correctamente antes de subirlo a Azure.    
 3.	**Prepara tu Entorno de Desarrollo:**  
-	•	Instala la extensión de Azure Functions en VS Code si aún no lo has hecho. Esto se puede hacer desde la barra lateral de extensiones buscando "Azure Functions" y haciendo clic en instalar.  
-	•	Desde la paleta de comandos, Escribe y selecciona "Azure Functions: Create New Project...".  
+	•	Instala la extensión de Azure Functions en VS Code si aún no lo has hecho. Esto se puede hacer desde la barra lateral de extensiones buscando "Azure Functions" y haciendo clic en instalar.    
+	•	Desde la paleta de comandos, Escribe y selecciona "Azure Functions: Create New Project...".    
 
-<img src="image/azuref1.png" alt="Descripción de la imagen" width="660">
+<img src="image/azuref1.png" alt="Descripción de la imagen" width="660">  
 
-•	Asegúrate de que la carpeta del proyecto esté seleccionada, es recomendable crear una carpeta exclusiva para Azure Function.
-•	Elige "Python" como lenguaje de programación para tu proyecto de Azure Functions.
-•	Selecciona el entorno de Python que quieras usar (deberías tener Python ya instalado).
+•	Asegúrate de que la carpeta del proyecto esté seleccionada, es recomendable crear una carpeta exclusiva para Azure Function.  
+•	Elige "Python" como lenguaje de programación para tu proyecto de Azure Functions.  
+•	Selecciona el entorno de Python que quieras usar (deberías tener Python ya instalado).  
 •	Pasos para crear el "TimerTrigger" como tipo de disparador para ejecutar cada tiempo determinado.
 1.	En VS Code, asegúrate de tener instalada la extensión de Azure Functions.
 2.	Abre la paleta de comandos con Ctrl+Shift+P.
@@ -162,7 +162,14 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 <img src="image/azuretrigger.jpg" alt="Descripción de la imagen" width="660">
 
 ## 6. Sube tu Script a Azure:
+Después de haber desarrollado y probado tu script localmente, es el momento de llevarlo a la nube de Azure para su ejecución automatizada. Sigue estos pasos para subir tu script a Azure Functions:
+Accede al Portal de Azure utilizando tus credenciales de Microsoft.  
+ 
+• Navega a la sección de Aplicaciones de Funciones dentro del menú de servicios.  
+• Haz clic en "Agregar" o "Crear" para iniciar la configuración de una nueva Aplicación de Funciones.  
+• Rellena los detalles de la aplicación, asegurándote de seleccionar la suscripción correcta y el grupo de recursos apropiado.  
+• Asigna un nombre único a tu aplicación de funciones y elige la pila de ejecución Python con la versión adecuada.   
+• Sube tu script de Python y cualquier otro archivo necesario a través del portal de Azure o mediante herramientas como Visual Studio Code.  
+• Verifica que tu función se haya desplegado correctamente y realiza pruebas adicionales para asegurarte de que funcione como se espera en el entorno de Azure.  
 
-•	Desde Visual Studio Code, puedes desplegar directamente a tu **Function App** creada.  
-
-•	Asegúrate de configurar el archivo **requirements.txt** con todas las dependencias necesarias, como **azure-storage-blob**.
+**Al completar este paso, tu script estará listo para ejecutarse automáticamente en Azure, proporcionándote un análisis de datos continuo y escalable basado en la nube.**
