@@ -92,6 +92,6 @@ Este proyecto mejorará las habilidades técnicas de los participantes en el uso
 7.	Haz clic en "Revisar y crear" y, una vez validados los detalles, en "Crear".
 
 
-<img src="image/azure8.jpeg" alt="" width="600">
+<img src="image/azure8.jpg" alt="" width="600">
 
-<img src="image/azure9.jpeg" alt="" width="600">
+<img src="image/azure9.jpg" alt="" width="600">
