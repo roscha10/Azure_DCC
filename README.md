@@ -64,3 +64,16 @@ Este proyecto mejorará las habilidades técnicas de los participantes en el uso
 
 •	**Iniciar sesión en Azure Portal:**  Con tus credenciales de Microsoft, inicia sesión en Azure Portal.
 
+## 2. Configuración de Azure:
+
+**Creación del Grupo de Recursos:**
+1.	Inicia sesión en el Portal de Azure.
+2.	En el panel de navegación izquierdo, haz clic en "Crear un recurso".
+3.	Busca "Grupo de recursos" y selecciona la opción correspondiente.
+4.	En el formulario, proporciona un nombre para el grupo de recursos, en este caso, **DataFactoryResources.**
+5.	Selecciona la región más adecuada para tu proyecto.
+6.	Haz clic en "Revisar y crear", y luego en "Crear".
+
+![image](https://github.com/roscha10/Azure_DCC/assets/130667173/226c1220-d708-4fd9-8695-9c1e59334f98)
+![image](https://github.com/roscha10/Azure_DCC/assets/130667173/300bb078-cfd3-42f1-bc3c-39eab21ff418)
+
