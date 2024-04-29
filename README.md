@@ -79,7 +79,7 @@ Este proyecto mejorará las habilidades técnicas de los participantes en el uso
 
 ![image](https://github.com/roscha10/Azure_DCC/assets/130667173/300bb078-cfd3-42f1-bc3c-39eab21ff418)
 
-## 3. Creación de la Cuenta de Almacenamiento y Contenedor:
+## 3. Creación de la Cuenta de Almacenamiento:
 
 1.	Dentro del grupo de recursos DataFactoryResources, haz clic en "Agregar" o "Crear recurso".
    ![image](https://github.com/roscha10/Azure_DCC/assets/130667173/f1b71e7f-78c5-47a7-b542-16f817e0fe2a)
@@ -92,5 +92,5 @@ Este proyecto mejorará las habilidades técnicas de los participantes en el uso
 7.	Haz clic en "Revisar y crear" y, una vez validados los detalles, en "Crear".
 
 
-
-
+  <img src="image/azure8.jpeg" alt="" width="600">
+    <img src="image/azure9.jpeg" alt="" width="600">
