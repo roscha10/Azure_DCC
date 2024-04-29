@@ -58,9 +58,9 @@ Este proyecto mejorará las habilidades técnicas de los participantes en el uso
 
 •	**Recepción del crédito de $200:** El crédito de $200 estará automáticamente disponible en tu cuenta una vez que la activación sea exitosa.
 
-<p align="center">
-  <img src="image/azure00.jpeg" alt="" width="300">
-</p>
+
+  <img src="image/azure00.jpeg" alt="" width="600">
+
 
 
 •	**Iniciar sesión en Azure Portal:**  Con tus credenciales de Microsoft, inicia sesión en Azure Portal.
