@@ -1,1 +1,4 @@
-# Azure_DCC
+# Servicios de Azure para análisis de datos, enfocado en las empresas de NASDAQ-100 y un estudio detallado sobre sus 10 principales empresas por capitalización de mercado
+
+¡Hola a todos, miembro de la comunidad de Data Cloud Club de Henry y entusiastas de Azure! Prepárense para explorar el emocionante mundo del análisis de datos usando Azure, abordando el conjunto completo de empresas listadas en el NASDAQ-100 Con un especial énfasis en las 10 principales compañías por capitalización de mercado.
+Esta presentación está diseñada tanto para principiantes como para estudiantes que están dando sus primeros pasos en la nube de Azure y la ciencia de datos; exploraremos cómo iniciar con Azure aprovechando el crédito inicial de $200 ofrecido en el primer mes de la suscripción. Este crédito es una excelente oportunidad para aprender y aplicar las herramientas de Azure sin costo inicial, permitiéndonos explorar, experimentar y ejecutar proyectos de análisis de datos de manera efectiva.
