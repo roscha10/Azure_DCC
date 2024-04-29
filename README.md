@@ -8,26 +8,6 @@
   ¡Hola a todos, miembro de la comunidad de Data Cloud Club de Henry y entusiastas de Azure! Prepárense para explorar el emocionante mundo del análisis de datos usando Azure, abordando el conjunto completo de empresas listadas en el NASDAQ-100 Con un especial énfasis en las 10 principales compañías por capitalización de mercado. Esta presentación está diseñada tanto para principiantes como para estudiantes que están dando sus primeros pasos en la nube de Azure y la ciencia de datos; exploraremos cómo iniciar con Azure aprovechando el crédito inicial de $200 ofrecido en el primer mes de la suscripción. Este crédito es una excelente oportunidad para aprender y aplicar las herramientas de Azure sin costo inicial, permitiéndonos explorar, experimentar y ejecutar proyectos de análisis de datos de manera efectiva.
 </div>
 
-
-<div style="overflow: auto;">
-  <img src="image/MicrosoftAzure.png" alt="" style="float: left; margin-right: 10px;">
-  <p style="margin-left: 120px;">¡Hola a todos, miembro de la comunidad de Data Cloud Club de Henry y entusiastas de Azure! Prepárense para explorar el emocionante mundo del análisis de datos usando Azure, abordando el conjunto completo de empresas listadas en el NASDAQ-100 Con un especial énfasis en las 10 principales compañías por capitalización de mercado.
-Esta presentación está diseñada tanto para principiantes como para estudiantes que están dando sus primeros pasos en la nube de Azure y la ciencia de datos; exploraremos cómo iniciar con Azure aprovechando el crédito inicial de $200 ofrecido en el primer mes de la suscripción. Este crédito es una excelente oportunidad para aprender y aplicar las herramientas de Azure sin costo inicial, permitiéndonos explorar, experimentar y ejecutar proyectos de análisis de datos de manera efectiva.</p>
-</div>
-
-  <<div style="overflow: auto;">
-  <img src="image/MicrosoftAzure.png" alt="" style="float: left; margin-right: 10px;">
-  <p style="margin-left: 10px;">¡Hola a todos, miembro de la comunidad de Data Cloud Club de Henry y entusiastas de Azure! Prepárense para explorar el emocionante mundo del análisis de datos usando Azure, abordando el conjunto completo de empresas listadas en el NASDAQ-100 Con un especial énfasis en las 10 principales compañías por capitalización de mercado.
-Esta presentación está diseñada tanto para principiantes como para estudiantes que están dando sus primeros pasos en la nube de Azure y la ciencia de datos; exploraremos cómo iniciar con Azure aprovechando el crédito inicial de $200 ofrecido en el primer mes de la suscripción. Este crédito es una excelente oportunidad para aprender y aplicar las herramientas de Azure sin costo inicial, permitiéndonos explorar, experimentar y ejecutar proyectos de análisis de datos de manera efectiva.</p>
-</div>
-
-
-
-
-
-¡Hola a todos, miembro de la comunidad de Data Cloud Club de Henry y entusiastas de Azure! Prepárense para explorar el emocionante mundo del análisis de datos usando Azure, abordando el conjunto completo de empresas listadas en el NASDAQ-100 Con un especial énfasis en las 10 principales compañías por capitalización de mercado.
-Esta presentación está diseñada tanto para principiantes como para estudiantes que están dando sus primeros pasos en la nube de Azure y la ciencia de datos; exploraremos cómo iniciar con Azure aprovechando el crédito inicial de $200 ofrecido en el primer mes de la suscripción. Este crédito es una excelente oportunidad para aprender y aplicar las herramientas de Azure sin costo inicial, permitiéndonos explorar, experimentar y ejecutar proyectos de análisis de datos de manera efectiva.
-
 # Estos son los temas y contenidos que vamos a profundizar y tratar de explicar detalladamente:
 
 •	Fundamentos de Azure
@@ -51,4 +31,29 @@ Al comenzar, los participantes aprenderán a configurar su entorno Azure, aprove
 Este proyecto mejorará las habilidades técnicas de los participantes en el uso de Azure y Python y también proporcionará una gran experiencia en el análisis de datos reales del mercado financiero, preparando a los estudiantes para futuras carreras en la ciencia de datos y la ingeniería de datos. Al final del proyecto, los participantes habrán completado un análisis de datos de principio a fin, utilizando algunas de las herramientas más potentes disponibles en la tecnología de la nube.
 
 
-Antes de profundizar en cómo estructurar nuestro proyecto de análisis de datos en Azure, es importante mencionar que esta guía es solo una de las muchas maneras en que se puede aprovechar la nube para nuestros fines. Cada participante del proyecto tiene la libertad y es alentado a aportar sus propias ideas y sugerencias. Valoramos enormemente la diversidad de enfoques y consideramos que cada propuesta diferente ya que enriquece nuestro proyecto, y contribuye significativamente a nuestra comunidad. Con esto en mente, les presentamos nuestra sugerencia para desarrollar este proyecto, esperando que sirva como punto de partida para futuras innovaciones y personalizaciones.
+*Antes de profundizar en cómo estructurar nuestro proyecto de análisis de datos en Azure, es importante mencionar que esta guía es solo una de las muchas maneras en que se puede aprovechar la nube para nuestros fines. Cada participante del proyecto tiene la libertad y es alentado a aportar sus propias ideas y sugerencias. Valoramos enormemente la diversidad de enfoques y consideramos que cada propuesta diferente ya que enriquece nuestro proyecto, y contribuye significativamente a nuestra comunidad. Con esto en mente, les presentamos nuestra sugerencia para desarrollar este proyecto, esperando que sirva como punto de partida para futuras innovaciones y personalizaciones.*
+
+# Sugerencia  para desarrollar este proyecto:
+
+# 1. Acceso a Azure y Utilización del Crédito Inicial:
+
+Desbloqueo de Azure con el Crédito Inicial de $200:
+•	Dirígete a la página oficial de Microsoft Azure Azure Free Account. Aquí encontrarás información sobre la cuenta gratuita que incluye $200 de crédito para usar durante los primeros 30 días.
+
+•	Crear una cuenta de Microsoft: Si aún no tienes una, deberás crear una cuenta de Microsoft. Puedes hacerlo desde el mismo portal de Azure.
+
+
+•	Iniciar el proceso de registro para Azure: Haz clic en "Start free", y serás guiado a través del proceso de registro.
+
+•	Proporcionar detalles personales: Durante el proceso de registro, se te pedirá que ingreses información personal básica.
+
+
+•	Verificación de teléfono: Azure requiere una verificación de teléfono para ayudar a proteger tu identidad. Deberás ingresar tu número de teléfono para recibir un código de verificación.
+
+•	Información de la tarjeta de crédito: Aunque no se te cobrará durante el periodo de prueba gratuito, Azure requiere una tarjeta de crédito para configurar la cuenta. Esto es para asegurarse de que puedas continuar usando los servicios sin interrupción después de que el crédito inicial o el periodo gratuito termine, Es importante saber que Azure no realizará cargos en tu tarjeta de crédito durante el período de prueba, ni después de este, a menos que decidas cambiar de plan y autorices explícitamente esos cargos. Esto te da control completo sobre tu plan de gastos y asegura que no habrá costos inesperados.
+
+
+•	Confirmación de la cuenta: Una vez que ingreses todos los detalles necesarios y completes la verificación, tu cuenta será activada.
+
+•	Recepción del crédito de $200: El crédito de $200 estará automáticamente disponible en tu cuenta una vez que la activación sea exitosa.
+
