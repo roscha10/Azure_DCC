@@ -108,7 +108,7 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 
 ## 5. Automatización con Azure Functions: 
 
-## Paso 1: Crear una Aplicación de Funciones
+### Paso 1: Crear una Aplicación de Funciones
 1.	**Accede al Portal de Azure:**
 	•	Ingresa a ([Azure Portal](https://portal.azure.com)) usando tus credenciales.
 2.	**Navega a Aplicaciones de Funciones:**
@@ -130,7 +130,7 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 
 <img src="image/azurefunction.jpg" alt="" width="600">
 
-## Paso 2: Desarrollar y Desplegar el Script de Python
+### Paso 2: Desarrollar y Desplegar el Script de Python
 1.	**Desarrolla tu Script Localmente:**
 	•	Asegúrate de que tu script de Python realiza las tareas deseadas (ej., acceder a datos, procesarlos, y prepararlos para la carga).
 	•	Incluye las bibliotecas necesarias para interactuar con Azure Blob Storage, como azure-storage-blob.
