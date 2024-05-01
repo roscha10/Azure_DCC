@@ -22,7 +22,7 @@ Al comenzar, los participantes aprenderán a configurar su entorno Azure, aprove
 
 Aquí está el diagrama que muestra el flujo de trabajo del proyecto que vamos a construir:
 
-<img src="image/WhatsApp Image 2024-04-29 at 11.02.07 AM.jpeg" width="300">
+<img src="image/WhatsApp Image 2024-04-30 at 7.43.50 PM.jpeg" width="600">
 
 
 # El proyecto abarca varios componentes clave:
