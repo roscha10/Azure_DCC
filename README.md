@@ -20,8 +20,8 @@
 Este proyecto se centra en el análisis detallado de las empresas con mayor capitalización de mercado del NASDAQ-100, utilizando para ello los avanzados servicios de Azure. El objetivo es proporcionar a estudiantes y principiantes una comprensión profunda de cómo se pueden aplicar las soluciones de Azure en el ámbito del análisis de datos financieros.
 Al comenzar, los participantes aprenderán a configurar su entorno Azure, aprovechando un crédito inicial de $200 ofrecido por Azure para explorar y utilizar sus diversos servicios sin coste inicial. Esta oportunidad permite a los usuarios familiarizarse con la plataforma, practicar la configuración de recursos y gestionar datos de manera efectiva sin preocupaciones económicas durante el primer mes, algunos siempre seran gratis.
 
-Aquí está el diagrama que muestra el flujo de trabajo del proyecto que vamos a construir:
 
+Aquí está el diagrama que muestra el flujo de trabajo del proyecto que vamos a construir:
 <img src="image/WhatsApp Image 2024-04-30 at 7.43.50 PM.jpeg" width="600">
 
 
